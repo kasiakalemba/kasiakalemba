@@ -1,10 +1,12 @@
 ### Hi there 👋
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasiakalemba&theme=vue" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasiakalemba&theme=dark" />
 
 <!--
 **kasiakalemba/kasiakalemba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 
 Here are some ideas to get you started:
 
