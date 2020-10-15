@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 <!--
 **kasiakalemba/kasiakalemba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
