@@ -13,7 +13,7 @@ I'm Kasia. I'm a researcher and data scientist. I like to explore the world too 
 
 ### Reach Me 
 <!-- Actual text -->
-You can find me on [![LinkedIn][2.2]][2] or [![Twitter][1.2]][1] too.
+You can find out more about me on kasiakalemba.com or [![LinkedIn][2.2]][2] or [![Twitter][1.2]][1] too.
 
 <!-- Icons -->
 
