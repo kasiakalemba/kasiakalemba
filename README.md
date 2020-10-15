@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 I'm Kasia. I'm a researcher and data scientist. I like to explore the world too :earth_americas:
 
 ## My Toolbox :toolbox:
@@ -11,7 +11,7 @@ I'm Kasia. I'm a researcher and data scientist. I like to explore the world too 
 ### Databases and Others 
 * PostgreSQL * MongoDB * APIs * ETLs * Flask * Beautiful Soup * Chromedriver * Machine Learning * Statistics
 
-### Reach Me 
+## Let's Get in Touch
 <!-- Actual text -->
 You can find out more about me on [HERE](http://kasiakalemba.com) or [![LinkedIn][2.2]][2] or [![Twitter][1.2]][1] too.
 
