@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Kasia. I'm a researcher and data scientist. I like to explore the world too :earth_americas:
 
-## My Technologies and Tools :toolbox:
+## My Toolbox :toolbox:
 ### Languages 
 * Python * Javascript * HTML * CSS * R
 
