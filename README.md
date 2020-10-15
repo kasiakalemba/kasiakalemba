@@ -1,7 +1,3 @@
-<!--
-**kasiakalemba/kasiakalemba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
 ## Hi there 👋
 I'm Kasia. I'm a researcher and data scientist. I like to explore the world too. 
 
