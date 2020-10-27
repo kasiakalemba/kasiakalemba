@@ -1,5 +1,6 @@
 # Hi there 👋
-I'm Kasia. I'm a researcher and data scientist. I like to explore the world too :earth_americas:
+I'm Kasia. I'm a basic science researcher and data scientist. 
+I like to explore the world too :earth_americas:
 
 ## My Toolbox :toolbox:
 ### Languages 
