@@ -3,14 +3,9 @@ I'm Kasia. I'm a basic science researcher and data scientist.
 I like to explore the world too :earth_americas:
 
 ## My Toolbox :toolbox:
-### Languages 
-* Python * Javascript * HTML * CSS * R
-
-### Data Visualization & Manipulation
-* Matplotlib * Tableau * D3 * Plotly * Pandas * Numpy * Sklearn * SQLAlchemy 
-
-### Databases and Others 
-* PostgreSQL * MongoDB * APIs * ETLs * Flask * Beautiful Soup * Chromedriver * Machine Learning * Statistics
+* Python * SQL
+* Matplotlib * Tableau * D3 * Plotly * Pandas * Numpy * Sklearn
+* APIs * ETLs * Flask * Beautiful Soup * Chromedriver * Machine Learning * Statistics
 
 ## Let's Get in Touch
 <!-- Actual text -->
